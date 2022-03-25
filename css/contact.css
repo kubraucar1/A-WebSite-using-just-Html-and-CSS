@@ -1,0 +1,16 @@
+body{
+    background-image: url(../img/contact.jpg);
+  
+}
+.boxes{
+    color: rgb(245, 245, 245);
+    margin-top: 15%;
+    text-align: center;
+
+}
+#first{
+    text-align: center;
+    background-color: white;
+    font-size: 60;
+    margin: 5%;
+}

@@ -1,0 +1,21 @@
+.k{
+    background-color: rgb(235, 104, 17);
+    text-align: center;
+    font-size: 25;
+    margin-top: 1cm;
+}
+.yazi{
+    color: rgb(252, 252, 252);
+    font-size: 0.7cm;
+    margin: 3%;
+}
+body{ 
+    background-color: black;
+}
+h2{
+    background-color: rgb(3, 97, 50);
+    margin-right: 80%;
+}.title{
+ background-color: yellow;
+ margin-right: 70%;
+}

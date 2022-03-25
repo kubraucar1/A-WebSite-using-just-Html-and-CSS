@@ -1,0 +1,22 @@
+.yazi{
+    color: rgb(252, 252, 252);
+    font-size: 0.7cm;
+    margin: 3%;
+}
+.bold{
+    background-color: rgb(37, 201, 64);
+    margin-right: 80%;
+}
+body{
+    background-color: rgb(4, 14, 14);
+}
+.country-title{
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-size: large;
+    margin-top: 1cm;
+}
+h3{
+    background-color: rgb(255, 238, 0);
+    margin-right: 80%;
+}

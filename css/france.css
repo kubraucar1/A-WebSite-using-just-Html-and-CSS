@@ -1,0 +1,26 @@
+.f{
+    background-color: rgb(235, 104, 17);
+    text-align: center;
+    font-size: 25;
+    margin-top: 1cm;
+}
+h3.title{
+    color: rgb(12, 5, 0);
+    background-color: rgb(233, 236, 29);
+    margin-right: 70%;
+}
+p{
+    margin: 2cm;
+}
+.yazi{
+    color: rgb(252, 252, 252);
+    font-size: 0.7cm;
+    margin: 3%;
+}
+body{
+    background-color: black;
+}
+h2{
+    background-color: rgb(8, 102, 13);
+    margin-right: 80%;
+}
